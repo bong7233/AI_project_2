@@ -1,15 +1,15 @@
 # 머신러닝 미니 프로젝트
-## 해당 프로젝트 COLAB 링크 ( 코드 원본을 볼 수 있습니다. )
-
-<a>https://colab.research.google.com/drive/1yB6DTQVGZT6e5CW4OkCjTLSWJuLxH3uM?usp=sharing</a>
+## COLAB 링크
+<a>https://colab.research.google.com/drive/1yB6DTQVGZT6e5CW4OkCjTLSWJuLxH3uM?usp=sharing</a>  
 
 ---
 
-# 게임 심의등급 예측하기
+# 게임 심의등급(esrb) 예측
 
-## 목표 : 임의의 게임에 대한 ESRP 심의등급 예측하기
-- 게임 출시 전 해당 모델을 활용하여 ESRP 등급을 예측
-- 필요에따라 특정 효과를 추가, 제거하여 등급을 조절할 수 있음
+## 목표 : 임의의 게임에 대한 ESRP 심의등급 예측
+- 출시 하려는 게임의 표현효과를 입력하여 심의 등급 예측 
+- 필요에 따라 특정 효과를 추가, 제거하여 등급을 조절하는 용도로 사용 가능
+  - 출시하려는 게임을 전체이용가로 하기위해서 어떤 표현효과를 빼야 하는지 알 수 있음
   
 ## 설명
 - 게임 내에는 다양한 표현효과가 존재
